@@ -1,0 +1,14 @@
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\bin\Debug\net10.0\FileLogger.exe
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\bin\Debug\net10.0\FileLogger.deps.json
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\bin\Debug\net10.0\FileLogger.runtimeconfig.json
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\bin\Debug\net10.0\FileLogger.dll
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\bin\Debug\net10.0\FileLogger.pdb
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\obj\Debug\net10.0\FileLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\obj\Debug\net10.0\FileLogger.AssemblyInfoInputs.cache
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\obj\Debug\net10.0\FileLogger.AssemblyInfo.cs
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\obj\Debug\net10.0\FileLogger.csproj.CoreCompileInputs.cache
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\obj\Debug\net10.0\FileLogger.dll
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\obj\Debug\net10.0\refint\FileLogger.dll
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\obj\Debug\net10.0\FileLogger.pdb
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\obj\Debug\net10.0\FileLogger.genruntimeconfig.cache
+C:\Users\ewasl\Desktop\FileLogger\FileLogger\obj\Debug\net10.0\ref\FileLogger.dll
