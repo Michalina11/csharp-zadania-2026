@@ -1,0 +1,14 @@
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\bin\Debug\net10.0\TodoLINQ.exe
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\bin\Debug\net10.0\TodoLINQ.deps.json
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\bin\Debug\net10.0\TodoLINQ.runtimeconfig.json
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\bin\Debug\net10.0\TodoLINQ.dll
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\bin\Debug\net10.0\TodoLINQ.pdb
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\obj\Debug\net10.0\TodoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\obj\Debug\net10.0\TodoLINQ.AssemblyInfoInputs.cache
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\obj\Debug\net10.0\TodoLINQ.AssemblyInfo.cs
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\obj\Debug\net10.0\TodoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\obj\Debug\net10.0\TodoLINQ.dll
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\obj\Debug\net10.0\refint\TodoLINQ.dll
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\obj\Debug\net10.0\TodoLINQ.pdb
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\obj\Debug\net10.0\TodoLINQ.genruntimeconfig.cache
+C:\Users\ewasl\Desktop\TodoLINQ\TodoLINQ\obj\Debug\net10.0\ref\TodoLINQ.dll
