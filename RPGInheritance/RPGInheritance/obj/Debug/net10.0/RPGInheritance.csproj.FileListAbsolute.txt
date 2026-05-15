@@ -1,0 +1,14 @@
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\bin\Debug\net10.0\RPGInheritance.exe
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\bin\Debug\net10.0\RPGInheritance.deps.json
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\bin\Debug\net10.0\RPGInheritance.runtimeconfig.json
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\bin\Debug\net10.0\RPGInheritance.dll
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\bin\Debug\net10.0\RPGInheritance.pdb
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\obj\Debug\net10.0\RPGInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\obj\Debug\net10.0\RPGInheritance.AssemblyInfoInputs.cache
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\obj\Debug\net10.0\RPGInheritance.AssemblyInfo.cs
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\obj\Debug\net10.0\RPGInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\obj\Debug\net10.0\RPGInheritance.dll
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\obj\Debug\net10.0\refint\RPGInheritance.dll
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\obj\Debug\net10.0\RPGInheritance.pdb
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\obj\Debug\net10.0\RPGInheritance.genruntimeconfig.cache
+C:\Users\ewasl\Desktop\RPGInheritance\RPGInheritance\obj\Debug\net10.0\ref\RPGInheritance.dll
