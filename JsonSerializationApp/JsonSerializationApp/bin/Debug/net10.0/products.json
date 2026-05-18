@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Name": "Jajka",
+    "Price": 10.99,
+    "Category": "Nabial",
+    "InStock": true
+  }
+]

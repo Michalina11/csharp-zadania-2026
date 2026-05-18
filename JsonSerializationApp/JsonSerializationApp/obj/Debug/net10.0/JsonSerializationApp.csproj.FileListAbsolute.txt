@@ -1,0 +1,14 @@
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\bin\Debug\net10.0\JsonSerializationApp.exe
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\bin\Debug\net10.0\JsonSerializationApp.deps.json
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\bin\Debug\net10.0\JsonSerializationApp.runtimeconfig.json
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\bin\Debug\net10.0\JsonSerializationApp.dll
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\bin\Debug\net10.0\JsonSerializationApp.pdb
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\obj\Debug\net10.0\JsonSerializationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\obj\Debug\net10.0\JsonSerializationApp.AssemblyInfoInputs.cache
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\obj\Debug\net10.0\JsonSerializationApp.AssemblyInfo.cs
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\obj\Debug\net10.0\JsonSerializationApp.csproj.CoreCompileInputs.cache
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\obj\Debug\net10.0\JsonSerializationApp.dll
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\obj\Debug\net10.0\refint\JsonSerializationApp.dll
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\obj\Debug\net10.0\JsonSerializationApp.pdb
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\obj\Debug\net10.0\JsonSerializationApp.genruntimeconfig.cache
+C:\Users\ewasl\Desktop\JsonSerializationApp\JsonSerializationApp\obj\Debug\net10.0\ref\JsonSerializationApp.dll
