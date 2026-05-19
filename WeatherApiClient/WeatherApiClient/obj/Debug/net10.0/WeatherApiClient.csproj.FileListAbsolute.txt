@@ -1,0 +1,14 @@
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\bin\Debug\net10.0\WeatherApiClient.exe
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\bin\Debug\net10.0\WeatherApiClient.deps.json
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\bin\Debug\net10.0\WeatherApiClient.runtimeconfig.json
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\bin\Debug\net10.0\WeatherApiClient.dll
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\bin\Debug\net10.0\WeatherApiClient.pdb
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\obj\Debug\net10.0\WeatherApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\obj\Debug\net10.0\WeatherApiClient.AssemblyInfoInputs.cache
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\obj\Debug\net10.0\WeatherApiClient.AssemblyInfo.cs
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\obj\Debug\net10.0\WeatherApiClient.csproj.CoreCompileInputs.cache
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\obj\Debug\net10.0\WeatherApiClient.dll
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\obj\Debug\net10.0\refint\WeatherApiClient.dll
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\obj\Debug\net10.0\WeatherApiClient.pdb
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\obj\Debug\net10.0\WeatherApiClient.genruntimeconfig.cache
+C:\Users\ewasl\Desktop\WeatherApiClient\WeatherApiClient\obj\Debug\net10.0\ref\WeatherApiClient.dll
