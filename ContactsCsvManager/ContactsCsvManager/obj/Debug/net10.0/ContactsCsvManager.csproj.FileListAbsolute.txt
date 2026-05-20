@@ -1,0 +1,14 @@
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\obj\Debug\net10.0\ContactsCsvManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\obj\Debug\net10.0\ContactsCsvManager.AssemblyInfoInputs.cache
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\obj\Debug\net10.0\ContactsCsvManager.AssemblyInfo.cs
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\obj\Debug\net10.0\ContactsCsvManager.csproj.CoreCompileInputs.cache
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\bin\Debug\net10.0\ContactsCsvManager.exe
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\bin\Debug\net10.0\ContactsCsvManager.deps.json
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\bin\Debug\net10.0\ContactsCsvManager.runtimeconfig.json
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\bin\Debug\net10.0\ContactsCsvManager.dll
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\bin\Debug\net10.0\ContactsCsvManager.pdb
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\obj\Debug\net10.0\ContactsCsvManager.dll
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\obj\Debug\net10.0\refint\ContactsCsvManager.dll
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\obj\Debug\net10.0\ContactsCsvManager.pdb
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\obj\Debug\net10.0\ContactsCsvManager.genruntimeconfig.cache
+C:\Users\ewasl\Desktop\ContactsCsvManager\ContactsCsvManager\obj\Debug\net10.0\ref\ContactsCsvManager.dll
