@@ -1,0 +1,14 @@
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\bin\Debug\net10.0\ObserverPatternApp.exe
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\bin\Debug\net10.0\ObserverPatternApp.deps.json
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\bin\Debug\net10.0\ObserverPatternApp.runtimeconfig.json
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\bin\Debug\net10.0\ObserverPatternApp.dll
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\bin\Debug\net10.0\ObserverPatternApp.pdb
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\obj\Debug\net10.0\ObserverPatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\obj\Debug\net10.0\ObserverPatternApp.AssemblyInfoInputs.cache
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\obj\Debug\net10.0\ObserverPatternApp.AssemblyInfo.cs
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\obj\Debug\net10.0\ObserverPatternApp.csproj.CoreCompileInputs.cache
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\obj\Debug\net10.0\ObserverPatternApp.dll
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\obj\Debug\net10.0\refint\ObserverPatternApp.dll
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\obj\Debug\net10.0\ObserverPatternApp.pdb
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\obj\Debug\net10.0\ObserverPatternApp.genruntimeconfig.cache
+C:\Users\ewasl\Desktop\ObserverPatternApp\ObserverPatternApp\obj\Debug\net10.0\ref\ObserverPatternApp.dll
